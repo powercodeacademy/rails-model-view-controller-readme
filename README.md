@@ -36,6 +36,7 @@ Rails was created with the concept of convention over configuration and this hol
 * A `views/` directory that will contain a corresponding view for each of the pages that the end user will access. For a CRUD based model, a few of the standard views would include: an `index` view to show all records, a `show` page that shows a specific record, and then `new` and `edit` pages that each render a form.
 
 ## Request Flow
+
 ![MVC Request Flow](https://s3.amazonaws.com/flatiron-bucket/readme-lessons/mvc_flow_updated.png)
 
 ## Roles and Responsibilities
