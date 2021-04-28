@@ -1,4 +1,4 @@
-# Rails MVC
+# Rails Model View Controller
 
 ## Objectives
 
